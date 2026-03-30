@@ -3,5 +3,10 @@
 #### 1. [Abstract Syntax Tree](https://claude.ai/public/artifacts/3d264788-b3f8-4186-9d47-f8dbaa70866b)
 #### 2. [S-attributed SDT and L-attributed SDT](https://claude.ai/public/artifacts/8f2413be-88af-48a9-8146-b89f1a6055ac)
 #### 3. [Bottom up evaluation of L attributed SDT](https://claude.ai/public/artifacts/c8629020-4530-44e2-a49e-502b6981298e)
-#### 4. [Type Systems](https://claude.ai/public/artifacts/3d981091-4144-42a4-851b-2619dc02ff12)
-#### 5. [Symbol Table](https://claude.ai/public/artifacts/04fa4ba5-4cf0-4cad-9443-e18389ae36d6)
+#### 4. [Marker vs Hard-coded Stack Operations: Part 1](https://claude.ai/public/artifacts/3d7630dc-a586-4fec-b2ed-202deba8d256)
+#### 5. [Marker vs Hard-coded Stack Operations: Part 2](https://claude.ai/public/artifacts/85f8e3c5-d31f-485e-b363-be194cefc082)
+#### 6. [Type Systems](https://claude.ai/public/artifacts/3d981091-4144-42a4-851b-2619dc02ff12)
+#### 7. [Symbol Table](https://claude.ai/public/artifacts/04fa4ba5-4cf0-4cad-9443-e18389ae36d6)
+
+
+
