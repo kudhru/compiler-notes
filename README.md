@@ -6,7 +6,7 @@
 #### 4. [Marker vs Hard-coded Stack Operations: Part 1](https://claude.ai/public/artifacts/3d7630dc-a586-4fec-b2ed-202deba8d256)
 #### 5. [Marker vs Hard-coded Stack Operations: Part 2](https://claude.ai/public/artifacts/85f8e3c5-d31f-485e-b363-be194cefc082)
 #### 6. [Type Systems](https://claude.ai/public/artifacts/3d981091-4144-42a4-851b-2619dc02ff12)
-#### 7. [Symbol Table](https://claude.ai/public/artifacts/04fa4ba5-4cf0-4cad-9443-e18389ae36d6)
+#### 7. [Symbol Table](https://claude.ai/public/artifacts/c8a7e1d3-b7ff-443a-8e25-e0a5c8071578)
 
 
 
