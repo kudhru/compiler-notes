@@ -8,6 +8,7 @@
 #### 6. [Type Systems](https://claude.ai/public/artifacts/6b4254f7-d6a1-4dc0-b067-2cef7940e9b2)
 #### 7. [Symbol Table](https://claude.ai/public/artifacts/c8a7e1d3-b7ff-443a-8e25-e0a5c8071578)
 #### 8. [Intermediate Code Generation](https://claude.ai/public/artifacts/661fbb4c-55fe-4e30-bb13-009cd4e398ce)
+#### 9. [Code Generation and Peephole Optimization](https://claude.ai/public/artifacts/4c45bd62-88fe-41f1-80e4-8c5c8d10ae4c)
 
 
 
