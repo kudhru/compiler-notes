@@ -9,6 +9,7 @@
 #### 7. [Symbol Table](https://claude.ai/public/artifacts/c8a7e1d3-b7ff-443a-8e25-e0a5c8071578)
 #### 8. [Intermediate Code Generation](https://claude.ai/public/artifacts/661fbb4c-55fe-4e30-bb13-009cd4e398ce)
 #### 9. [Code Generation and Peephole Optimization](https://claude.ai/public/artifacts/4c45bd62-88fe-41f1-80e4-8c5c8d10ae4c)
+#### 10. [Data Flow Analysis](https://claude.ai/public/artifacts/d79f0888-c674-4c6f-9cb4-e4558d80432e)
 
 
 
